@@ -1,0 +1,8 @@
+../Core/Src/main.c:68:6:map	1
+../Core/Src/main.c:81:6:Mouse_GetAction	2
+../Core/Src/main.c:116:5:main	1
+../Core/Src/main.c:165:6:SystemClock_Config	4
+../Core/Src/main.c:213:13:MX_ADC1_Init	4
+../Core/Src/main.c:267:13:MX_DMA_Init	1
+../Core/Src/main.c:285:13:MX_GPIO_Init	1
+../Core/Src/main.c:315:6:Error_Handler	1

@@ -1,0 +1,8 @@
+../Core/Src/main.c:68:6:map	32	static
+../Core/Src/main.c:81:6:Mouse_GetAction	24	static
+../Core/Src/main.c:116:5:main	8	static
+../Core/Src/main.c:165:6:SystemClock_Config	88	static
+../Core/Src/main.c:213:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:267:13:MX_DMA_Init	16	static
+../Core/Src/main.c:285:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:315:6:Error_Handler	4	static,ignoring_inline_asm
